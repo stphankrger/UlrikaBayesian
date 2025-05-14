@@ -1,1 +1,2 @@
-# BayesData
+# BayesData Tutorial
+Add new scripts
